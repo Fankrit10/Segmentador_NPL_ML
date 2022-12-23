@@ -1,0 +1,7 @@
+[
+    {"text":"ME gusto el servicio es de calidad", "label":"MUY BUENO"},
+    {"text":"El trato es adorable", "label":"BUENO"},
+    {"text":"Terrible experiencia no recomendado", "label":"MALO"},
+    {"text":"Es pesimo el servicio no lo usen", "label":"MUY MALO"},
+    {"text":"Nunca solucionan", "label":"MUY MALO"}
+]
